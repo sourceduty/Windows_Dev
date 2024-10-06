@@ -11,6 +11,10 @@ One of its key strengths is its ability to offer best practices and code snippet
 Moreover, the custom GPT emphasizes a professional and technically proficient tone, ensuring that its advice is both reliable and relevant. It actively seeks clarification from users when necessary, ensuring that the guidance provided is tailored to their specific needs. Its goal is to enhance productivity by offering precise, hands-on solutions that developers can immediately apply to their projects.
 
 #
+
+![Windows Developer](https://github.com/user-attachments/assets/dd50effb-4381-491d-8596-775b5efce523)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
