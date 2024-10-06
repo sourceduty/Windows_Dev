@@ -1,6 +1,6 @@
 ![Windows Dev](https://github.com/user-attachments/assets/89a52696-fdd0-41d8-bdc8-ade35a8adb77)
 
-> Develop and modify Windows OS and software.
+> Develop, improve or modify Windows OS and software.
 
 #
 
