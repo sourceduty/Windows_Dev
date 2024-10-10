@@ -12,7 +12,7 @@ Moreover, the custom GPT emphasizes a professional and technically proficient to
 
 #
 
-![Windows Developer](https://github.com/user-attachments/assets/dd50effb-4381-491d-8596-775b5efce523)
+![Developer](https://github.com/user-attachments/assets/cc7e8803-0627-46a9-a3dc-0ccec6f8fc9c)
 
 #
 ### Related Links
